@@ -9,7 +9,7 @@ A Flutter project for noble quran in offline mood and some other daily remembera
 * Noble Quran with English translation
 * Daily rememberances
 * Qiblah compass
-* Adhans time tables
+* Adhan time tables
 * Electronic tasbih 
 
 ## ScreenShots :
