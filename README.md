@@ -11,6 +11,16 @@ A Flutter project for noble quran in offline mood and some other daily remembera
 * Qiblah compass
 * Adhan time tables
 * Electronic tasbih 
+* both English and Arabic localization are available in the app 
+
+## Plugins:
+- [provider](https://pub.dev/packages/provider)
+- [quran](https://pub.dev/packages/quran)
+- [adhan_dart](https://pub.dev/packages/adhan_dart)
+- [flutter_qiblah](https://pub.dev/packages/flutter_qiblah)
+- [geolocator](https://pub.dev/packages/geolocator)
+- [easy_localization](https://pub.dev/packages/easy_localization)
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
 
 ## ScreenShots :
 
